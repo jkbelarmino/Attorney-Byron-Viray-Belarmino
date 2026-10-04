@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jkbelarmino.github.io/Attorney-Byron-Viray-Belarmino/sitemap.xml

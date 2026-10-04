@@ -1,0 +1,16 @@
+{
+  "name": "Atty. Byron V. Belarmino Legal Archive",
+  "short_name": "Belarmino Legal",
+  "description": "Official Legal Reference Repository & Memorial Page for Atty. Byron V. Belarmino",
+  "start_url": "/Attorney-Byron-Viray-Belarmino/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#0B192C",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
