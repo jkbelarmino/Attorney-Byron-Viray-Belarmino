@@ -1,2 +1,10 @@
-# Attorney-Byron-Viray-Belarmino
-Legal reference archive and memorial honoring Atty. Byron Viray Belarmino, preserving his professional legacy, Philippine legal references, historical laws, and personal remembrance.  Copy description
+# Atty. Byron V. Belarmino
+### Legal Reference Repository & Memorial
+
+A historical Philippine legal reference archive and memorial dedicated to Atty. Byron V. Belarmino.
+
+The repository documents Philippine legal frameworks applicable during his years in the legal profession, provides a directory of public legal sources, and presents selected subsequent legal developments and current frameworks as of 2026.
+
+The page includes a searchable legal reference archive and a personal tribute honoring Atty. Belarmino’s life, values, and legacy.
+
+**A record of the law. A tribute to his life. A legacy preserved beyond the years he lived.**
